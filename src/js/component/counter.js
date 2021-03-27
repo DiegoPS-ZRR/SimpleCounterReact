@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 export function Counter(props) {
 	return (
-		<div className="text-center d-flex justify-content-around bg-dark text-white p-4">
+		<div className="clock-container justify-content-around text-center mt-5 d-flex">
 			<h1>
 				<i className="far fa-clock"></i>
 			</h1>

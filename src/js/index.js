@@ -9,7 +9,6 @@ import "../styles/index.scss";
 //import your own components
 import { Counter } from "./component/counter.js";
 
-
 let value = 0;
 //render your react application
 setInterval(() => {
